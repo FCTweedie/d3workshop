@@ -1,0 +1,33 @@
+.title{
+	color: #80002a;
+	font-size: 15px;
+	padding: 10px;
+	border: solid;
+}
+.othertext{
+	color: blue;
+	background-color: #ffccff;
+	
+}
+.description{
+	color: #333333;
+	font-size: 13px;
+	font-family: verdana;
+	padding-left: 20px;
+}
+.image{
+	width: 300px;
+	left: 20px;
+}
+.circle{
+	fill: red;
+	stroke: black;
+	r: 50px;
+}
+.rectangle{
+	height: 400px; 
+	width: 300px;
+	stroke: green;
+	stroke-width: 15;
+	fill: white;
+}
